@@ -2,7 +2,7 @@ class GiaoVien{
   //properties thuộc tính
   String? ten;
   String? danhsachmon;
-  //contractor
+  //constractor
   GiaoVien({this.ten,this.danhsachmon});
   //methods
   void xuat(){
